@@ -159,7 +159,7 @@ allFilterButtons.forEach((button) => {
 
 // projects.html - "Read More" buttons
 
-if (window.location.pathname === "/projects.html") {
+if (window.location.pathname === "/plascosterm-website1.0/projects.html") {
   // the button
   const readMore1 = document.querySelector(".read_more1");
   // the paragraph
